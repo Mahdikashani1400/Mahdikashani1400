@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mahdi Kashani
 
-I'm a frontend developer based in Tehran. Welcome to my GitHub profile! 🚀
+I'm a frontend developer located Tehran. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
@@ -17,7 +17,7 @@ I have been working as a frontend developer for the past 2 years. I specialize i
 
 ## What I'm Working On
 
-Currently, I'm focusing on honing my skills in React and exploring new front-end technologies. I'm also working on personal projects to enhance my portfolio and improve my expertise.
+Currently, I'm focusing on refine my skills in React and exploring new front-end technologies. I'm also working on personal projects to enhance my portfolio and improve my expertise.
 
 ## Get in Touch
 
