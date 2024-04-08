@@ -8,12 +8,12 @@ I have been working as a frontend developer for the past 2 years. I specialize i
 
 ## My Skills
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Expert-brightgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![React](https://img.shields.io/badge/React-Intermediate-blueviolet)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 
 ## What I'm Working On
 
