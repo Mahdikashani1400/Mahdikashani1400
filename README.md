@@ -26,8 +26,8 @@ Currently, I'm focusing on refine my skills in React and exploring new front-end
 - <a href="https://www.linkedin.com/in/mohammad-mahdi-kashani-291a89248"><img height="20px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
-- 😄 Pronouns: He/Him
+ 
 
 
 
-Thanks for visiting my GitHub profile! 😊
+#### Thanks for visiting my GitHub profile! 😊
