@@ -21,7 +21,8 @@ Currently, I'm focusing on honing my skills in React and exploring new front-end
 
 ## Get in Touch
 
-- 📫 How to reach me: [Email](mahdi.kashan96@gmail.com)  / [Telegram](tg://openmessage?user_id=492432980)
+- 📫 How to reach me: [mahdi.kashan96@gmail.com](mailto:mahdi.kashan96@gmail.com)
+- Telegram: [Contact me](tg://openmessage?user_id=492432980)
 - 😄 Pronouns: He/Him
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-mahdi-kashani-291a89248)
