@@ -19,13 +19,15 @@ I have been working as a frontend developer for the past 2 years. I specialize i
 
 Currently, I'm focusing on refine my skills in React and exploring new front-end technologies. I'm also working on personal projects to enhance my portfolio and improve my expertise.
 
-## Get in Touch
+## 📫 connect with me
 
-- 📫 How to reach me: [mahdi.kashan96@gmail.com](mailto:mahdi.kashan96@gmail.com)
-- Telegram: <a href="https://t.me/smmkra"> Contact me </a>
+- <a href="https://t.me/smmkra"><img height="20px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+- <a href="mailto:mahdi.kashan96@gmail.com"><img height="20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+- <a href="https://www.linkedin.com/in/mohammad-mahdi-kashani-291a89248"><img height="20px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
 - 😄 Pronouns: He/Him
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-mahdi-kashani-291a89248)
 
 
 Thanks for visiting my GitHub profile! 😊
